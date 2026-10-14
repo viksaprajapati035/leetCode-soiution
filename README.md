@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
