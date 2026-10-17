@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -12,9 +13,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0278-first-bad-version) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
