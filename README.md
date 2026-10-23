@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0292-nim-game) |
 | [2235-add-two-integers](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/2235-add-two-integers) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0292-nim-game) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
