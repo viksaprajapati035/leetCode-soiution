@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -36,14 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0389-find-the-difference) |
 ## Brainteaser
 |  |
 | ------- |
