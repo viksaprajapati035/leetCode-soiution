@@ -78,4 +78,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
