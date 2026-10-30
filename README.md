@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0292-nim-game) |
+| [0509-fibonacci-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
@@ -94,4 +95,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/viksaprajapati035/leetCode-soiution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
